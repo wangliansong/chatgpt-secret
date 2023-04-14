@@ -1,0 +1,5 @@
+server:
+  port: 8081 #启动端口
+spring:
+  application:
+    name: moggpt
