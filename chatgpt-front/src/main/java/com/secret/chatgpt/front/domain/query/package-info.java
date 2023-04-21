@@ -1,0 +1,1 @@
+package com.secret.chatgpt.front.domain.query;
